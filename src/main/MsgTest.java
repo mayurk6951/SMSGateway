@@ -3,9 +3,6 @@ package main;
 import com.twilio.Twilio;
 import com.twilio.rest.api.v2010.account.Message;
 
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.net.URLEncoder;
 
 public class MsgTest {
 
